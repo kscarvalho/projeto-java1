@@ -6,7 +6,7 @@ public class PrimeiraClasseJava {
 	public static void main(String[] args) {
 		
 		/*Escreve no console*/
-		System.out.println("Meu promeiro java");
+		System.out.println("Hello Mundo");
 	}
 		
 } 
