@@ -4,7 +4,7 @@ public class PrimeiraClasseJava {
 	
 	/*main é um auto executave*/
 	public static void main(String[] args) {
-		/*Escreve palavra no console*/
+		/*Escreve*/
 		System.out.println("Meu Primeiro Programa Java");
 	}
 		
